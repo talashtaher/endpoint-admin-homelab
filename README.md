@@ -17,7 +17,7 @@ Currently preparing for **Microsoft 365 Certified: Endpoint Administrator Associ
 | Entra Cloud Sync | Hybrid identity (on-prem AD → Entra ID) |
 
 ## Progress
-- [ ] Week 1 – Lab build: Hyper-V, domain controller, domain-joined client
+- [ ] Week 1 – Lab build: VirtualBox, domain controller, domain-joined client
 - [ ] Week 2 – Active Directory, Group Policy, DNS/DHCP, PowerShell automation
 - [ ] Week 3 – On-prem deployment and task sequence troubleshooting (DISM, logs)
 - [ ] Week 4 – Entra ID, device enrolment, hybrid identity
