@@ -33,7 +33,11 @@ Currently preparing for **Microsoft 365 Certified: Endpoint Administrator Associ
 | _coming soon_ | Device inventory report (serial, model, OS build, RAM) |
 
 ## Write-ups
-_Troubleshooting notes and lab walkthroughs will be added here._
+### Lab log
+- **Block 4 – DC01 build:** Created an isolated NAT network (10.0.10.0/24, DHCP disabled),
+  installed Windows Server 2025 (Desktop Experience) in VirtualBox, assigned a static IP,
+  verified connectivity (gateway → external IP), corrected time zone, and snapshotted
+  the clean build. Recovered from a hung restart after a driver install.
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/talash-bin-taher-391675208/)
