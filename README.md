@@ -34,6 +34,7 @@ Currently preparing for **Microsoft 365 Certified: Endpoint Administrator Associ
 
 ## Write-ups
 ### Lab log
+![DC01 network test](Checking%20Network.png)
 - **Block 4 – DC01 build:** Created an isolated NAT network (10.0.10.0/24, DHCP disabled),
   installed Windows Server 2025 (Desktop Experience) in VirtualBox, assigned a static IP,
   verified connectivity (gateway → external IP), corrected time zone, and snapshotted
